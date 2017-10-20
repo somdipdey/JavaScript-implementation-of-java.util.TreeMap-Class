@@ -14,7 +14,7 @@ Use something like this:
 # Using TreeMap in you JavaScript projects
 ### Initialise a TreeMap in your code like this:
 
-     var myTreeMap = new Map();
+     var myTreeMap = new TreeMap();
      
 ### Adding new key, value to your TreeMap variable:
 
