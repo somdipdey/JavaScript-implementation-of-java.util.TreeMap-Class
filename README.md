@@ -22,4 +22,20 @@ Use something like this:
     myTreeMap.put(2,"Second Value");
     myTreeMap.put(3,"Third Value");
     myTreeMap.put(4,"Fourth Value");
+### List of method of TreeMap implemented in this library:
 
+    * **Value put(K key, V value)**
+    * **Value get(Object key)**
+    * **Key firstKey()**
+    * **Key lastKey()**
+    * **boolean containsKey(Object key)**
+    * **boolean containsValue(Object value)**
+    * **Value remove(Object key)**
+    * **void clear()**
+    * **Key floorKey(K key)**
+    * **Key ceilingKey(K key)**
+    * **Object clone()**
+    * **int size()**
+    * **Set<K> keySet()**
+    * **void treeMap.foreach(V value)**
+    * **boolean isEmpty()**
