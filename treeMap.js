@@ -222,10 +222,14 @@ function TreeMap() {
 
 }
 
+// some more functions which might be required to complete the operations of TreeMap -->
+
+// Checks if the input is a number or not
 function isNumber( input ) {
   return !isNaN( input );
 }
 
+// Sorts a JavaScript dictionary by key
 function sortOnKeys(dict) {
 
     var sorted = [];
@@ -242,6 +246,8 @@ function sortOnKeys(dict) {
     return tempDict;
 }
 
+// Checks if all the keys in the JavaScript dictionary are numeral. 
+// If Yes, then it returns true or else it returns false
 function allKeysAreNumeral(dict) {
   for(var key in dict) {
       if(!isNumber(key))
