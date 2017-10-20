@@ -24,7 +24,7 @@ Use something like this:
     myTreeMap.put(4,"Fourth Value");
 ### List of method of TreeMap implemented in this library:
 
-    * **Value put(K key, V value)**
+* **Value put(K key, V value)**
     * **Value get(Object key)**
     * **Key firstKey()**
     * **Key lastKey()**
