@@ -11,4 +11,15 @@ Use something like this:
     <script src = "treeMap.js"></script>
     </html>
     
-# TreeMap in you JavaScript projects
+# Using TreeMap in you JavaScript projects
+### Initialise a TreeMap in your code like this:
+
+     var myTreeMap = new Map();
+     
+### Adding new key, value to your TreeMap variable:
+
+    myTreeMap.put(1,"First Value");
+    myTreeMap.put(2,"Second Value");
+    myTreeMap.put(3,"Third Value");
+    myTreeMap.put(4,"Fourth Value");
+
