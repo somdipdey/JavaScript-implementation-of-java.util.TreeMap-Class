@@ -22,7 +22,7 @@ Use something like this:
     myTreeMap.put(2,"Second Value");
     myTreeMap.put(3,"Third Value");
     myTreeMap.put(4,"Fourth Value");
-### List of method of TreeMap implemented in this library:
+### List of methods of TreeMap Class implemented in this library:
 
 * **Value put(K key, V value)**
 * **Value get(Object key)**
